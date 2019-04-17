@@ -1,0 +1,6 @@
+[
+    { "descripcion": "Comer", "completada": false },
+    { "descripcion": "Salir de casa", "completada": false },
+    { "descripcion": "Pasear al Perro", "completada": true },
+    { "descripcion": "Probar utf-8 áéíóú ñÑ ﬓ", "completada": false }
+]
